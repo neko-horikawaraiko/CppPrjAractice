@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/SolarSystem/.vs/SolarSystem
+/SolarSystem/Debug
+/.vs/CppPrjAractice
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
