@@ -1,1 +1,3 @@
-# CppPrjAractice
+# C++项目实战学习
+
+学习小项目练手
